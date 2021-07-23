@@ -6,3 +6,7 @@ Backers ... thinkful.com
 https://www.linkedin.com/mwlite/in/tosin-samuel-alagbada-95874b106
 <script src="https://kit.fontawesome.com/c95ef03a6a.js" crossorigin="anonymous"></script>
 https://culttt.com/2012/08/08/really-simple-inline-javascript-validation/
+
+
+https://blog.logrocket.com/handling-images-with-cloudinary-in-react/
+https://github.com/NedyUdombat/react-image-app/blob/master/src/App.js
