@@ -10,3 +10,4 @@ https://culttt.com/2012/08/08/really-simple-inline-javascript-validation/
 
 https://blog.logrocket.com/handling-images-with-cloudinary-in-react/
 https://github.com/NedyUdombat/react-image-app/blob/master/src/App.js
+https://github.com/bedimcode/responsive-portfolio-website-Alexa
